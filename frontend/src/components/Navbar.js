@@ -5,7 +5,7 @@ const Navbar = () => {
     <header>
       <div className="container">
         <Link to="/">
-          <h1>Gym Genius</h1>
+          <h1>Fit Fusion</h1>
         </Link>
       </div>
     </header>
